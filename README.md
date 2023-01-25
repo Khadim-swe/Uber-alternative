@@ -69,5 +69,8 @@ Please ensure that your code follows the existing coding conventions and is well
 ## Mission
 We believe that everyone deserves a safe and comfortable ride, and we strive to provide that experience for all of our users.
 
+## Contact me 
+https://twitter.com/Immortal_abdul
+
 ## Thank you
 Thank you for choosing our Uber alternative!
